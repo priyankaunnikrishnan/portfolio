@@ -1,0 +1,21 @@
+[
+    {
+      "title": "SuperMarket Billing System ",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a  miniproject-Supermarket Billing System which clearly focused on creating an efficient, user-friendly interface for supermarket transactions, integrating Java for front-end functionality and SQL for seamless database management.",
+      "skills": ["Java", "SQL"]
+    },
+    {
+      "title": "Cloud based mobile application for visually impaired",
+      "imageSrc": "projects/project.png",
+      "description": "The project focused on providing the visually impaired to read the documents, or help them to know the world of letters. It is mainly a cloud based application which was developed in an android phone.",
+      "skills": ["Android Studio", "PHP", "HTML"]
+    },
+    {
+      "title": "Portfolio Creation ",
+      "imageSrc": "projects/project.png",
+      "description": "Design a personalized and responsive portfolio that has unique style using JSX for seamless component-based UI and CSS for fine-tuned styling. Impress visitors with visually appealing presentation of work, ensuring that portfolio stands out in the digital landscape.",
+      "skills": ["React", "Javascript", "CSS", "HTML"]
+    }
+  ]
+  

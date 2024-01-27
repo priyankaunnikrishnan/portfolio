@@ -7,14 +7,11 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm PRIYANKA PRASANNA KUMARI</h1>
+        <h1 className={styles.title}>Hi, I'm Priyanka Prasanna Kumari</h1>
         <p className={styles.description}>
-        Aspiring AI Technologist | Advanced PG Diploma Candidate in Software Engineering Technology- Artificial Intelligence | 
-        Fast-Track Learner and Innovator
+        Aspiring AI Technologist, currently advancing my expertise through a postgraduate diploma in Software Engineering Technology AI at Centennial College, with a mission to contribute innovatively to the field of artificial intelligence and emerge as a proficient professional in the realm of AI technology.
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
-          RESUME
-        </a>
+        
       </div>
       <img
         src={getImageUrl("hero/HeroImage.jpg")}
