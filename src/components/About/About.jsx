@@ -1,3 +1,9 @@
+/* About.jsx
+Student Name: Priyanka Prasanna Kumari
+Student ID:301377064 
+Date : 01/28/24
+*/ 
+
 import React from "react";
 
 import styles from "./About.module.css";
@@ -18,30 +24,29 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Legal Name </h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+              Priyanka Prasanna Kumari
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Intro on me</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+                I am from India. I have completed my Bachelor degree in Computer Science and Engineering. Worked as an insurance analyst for past 4 years.
+                Have only hands on experience in programming.Trying to learn programming again and my goal is to secure a job in software field.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Career Exploration</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                I am enthusiastic about the opportunity to apply my skills within a dynamic evironment. 
+                If you are in search of a dedicated and proficient software engineering enthusiast, I am eager to connect with you and discuss potential avenues for collaboration.
               </p>
             </div>
           </li>

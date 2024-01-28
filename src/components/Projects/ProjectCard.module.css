@@ -1,3 +1,8 @@
+/* ProjectCard.module.css
+Student Name: Priyanka Prasanna Kumari
+Student ID:301377064 
+Date : 01/28/24
+*/ 
 @import "../../vars.css";
 
 .container {
@@ -21,8 +26,9 @@
 
 .description {
   margin-top: 6px;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 400;
+  font-style: italic;
 }
 
 .skills {

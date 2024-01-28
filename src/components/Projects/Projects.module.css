@@ -1,19 +1,24 @@
+/* Project.module.css
+Student Name: Priyanka Prasanna Kumari
+Student ID:301377064 
+Date : 01/28/24
+*/ 
 @import "../../vars.css";
-
+/*styles for section */
 .container {
   margin-top: 76px;
   color: var(--color-text);
   margin-left: 10%;
   margin-right: 10%;
 }
-
+/*header style*/
 .title {
   font-size: 35px;
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
 }
-
+/*main title style*/
 .projects {
   margin-top: 37px;
   display: flex;

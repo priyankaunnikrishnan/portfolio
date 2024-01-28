@@ -1,3 +1,8 @@
+/* Navbar.jsx
+Student Name: Priyanka Prasanna Kumari
+Student ID:301377064 
+Date : 01/28/24
+*/
 import React, { useState } from "react";
 
 import styles from "./Navbar.module.css";

@@ -1,8 +1,15 @@
+/* Service.jsx
+Student Name: Priyanka Prasanna Kumari
+Student ID:301377064 
+Date : 01/28/24
+*/ 
 import React from "react";
 import styles from "./Services.module.css";
 import skills from "../../data/skills.json";
 import history from "../../data/history.json";
 import { getImageUrl } from "../../utils";
+
+/* function to call the sevice section */ 
 
 export const Services = () => {
   return (
