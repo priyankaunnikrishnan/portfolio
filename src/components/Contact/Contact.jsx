@@ -12,7 +12,7 @@ import styles from "./Contact.module.css";
 
 export const Contact = () => {
     
- const handleSubmit = () => {window.location.href ='src/components/Hero'};
+ const handleSubmit = () => {window.location.href ='/'};
   
 
   return (

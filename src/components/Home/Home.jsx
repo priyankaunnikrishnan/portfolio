@@ -7,12 +7,12 @@ Date : 01/28/24
 
 import React from "react";
 
-import styles from "./Hero.module.css";
+import styles from "./Home.module.css";
 import { getImageUrl } from "../../utils";
 
-export const Hero = () => {
+export const Home = () => {
   return (
-    <section className={styles.container}>
+    <section className={styles.container} id="home">
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Priyanka Prasanna Kumari</h1>
         <p className={styles.description}>

@@ -16,14 +16,18 @@ Date : 01/28/24
 }
 
 .title {
-  font-size: 30px;
+  font-size: 75px;
   font-weight: 600;
   text-decoration: none;
   color: var(--color-text);
 }
 
+
+
 .menu {
   display: flex;
+  font-size: 30px;
+  font-weight: 600;
 }
 
 .menuItems {
